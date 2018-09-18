@@ -15,5 +15,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+show_excerpts: true
+
 disqus:
   shortname: abderrahim-1
+
+github_username:  abderrahim
+#linkedin_username: abderrahim-kitouni-a24a45122
+
+rss: rss
