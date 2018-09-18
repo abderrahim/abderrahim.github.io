@@ -14,3 +14,6 @@ github_username: abderrahim
 theme: minima
 plugins:
   - jekyll-feed
+
+disqus:
+  shortname: abderrahim-1
